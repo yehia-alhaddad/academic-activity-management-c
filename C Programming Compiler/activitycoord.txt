@@ -1,0 +1,85 @@
+E001;Advanced Programming;Elective;10.0
+E002;Data Science Fundamentals;Elective;10.0
+E003;Database Management;Elective;10.0
+E004;Artificial Intelligence Ethics;Elective;10.0
+E005;Computer Vision;Elective;10.0
+E006;Network Programming;Elective;20.0
+E007;Game Development;Elective;20.0
+E008;Cloud Computing;Elective;20.0
+E009;Software Project Management;Elective;20.0
+E010;IoT Applications;Elective;20.0
+SM001;Machine Learning Techniques;Specialise Module;10.0
+SM002;Web Development;Specialise Module;10.0
+SM003;Mobile App Development;Specialise Module;10.0
+SM004;Network Security;Specialise Module;10.0
+SM005;Data Mining;Specialise Module;10.0
+SM006;AI for Robotics;Specialise Module;20.0
+SM007;Full Stack Web Development;Specialise Module;20.0
+SM008;iOS App Development;Specialise Module;20.0
+SM009;Blockchain Development;Specialise Module;20.0
+SM010;Natural Language Processing;Specialise Module;20.0
+W001;Public Speaking Workshop;Workshop;1.0
+W002;Leadership Seminar;Workshop;1.0
+W003;Time Management Workshop;Workshop;1.0
+W004;Team Building Seminar;Workshop;1.0
+W005;Presentation Skills Workshop;Workshop;1.0
+W006;Effective Communication Workshop;Workshop;1.0
+W007;Conflict Resolution Workshop;Workshop;1.0
+W008;Critical Thinking Seminar;Workshop;1.0
+W009;Negotiation Skills Workshop;Workshop;1.0
+W010;Stress Management Workshop;Workshop;1.0
+CS001;Chess Society (Member);Society;5.0
+CS002;Coding Society (Member);Society;5.0
+CS003;Mathematics Society (Member);Society;5.0
+CS004;Robotics Society (Member);Society;5.0
+CS005;Physics Society (Member);Society;5.0
+CS006;Cybersecurity Society (Member);Society;5.0
+CS007;Data Science Society (Member);Society;5.0
+CS008;AI Enthusiasts Society (Member);Society;5.0
+CS009;Programming Languages Society (Member);Society;5.0
+CS010;Quantum Computing Society (Member);Society;5.0
+PS001;Photography Society (Member);Society;5.0
+PS002;Film Society (Member);Society;5.0
+PS003;Art Society (Member);Society;5.0
+PS004;Music Society (Member);Society;5.0
+PS005;Dance Society (Member);Society;5.0
+PS006;Literature Society (Member);Society;5.0
+PS007;Design and Innovation Society (Member);Society;5.0
+PS008;Anime and Manga Society (Member);Society;5.0
+PS009;Gaming Society (Member);Society;5.0
+PS010;Culinary Arts Society (Member);Society;5.0
+PC001;Programming Club (Member);Club;5.0
+PC002;AI Club (Member);Club;5.0
+PC003;Robotics Club (Committee);Club;15.0
+PC004;Web Development Club (Committee);Club;15.0
+PC005;Cybersecurity Club (Committee);Club;15.0
+PC006;Data Science Club (Committee);Club;15.0
+PC007;AI Research Club (Committee);Club;15.0
+PC008;Gaming Club (Committee);Club;15.0
+PC009;Software Development Club (Committee);Club;15.0
+PC010;Blockchain Club (Committee);Club;15.0
+CT001;Coding Competition;Competition;10.0
+CT002;Debating Competition;Competition;10.0
+CT003;Math Olympiad;Competition;10.0
+CT004;Hackathon;Competition;10.0
+CT005;Quiz Competition;Competition;10.0
+CT006;Data Science Challenge;Competition;20.0
+CT007;AI Hackathon;Competition;20.0
+CT008;Web Development Competition;Competition;20.0
+CT009;Cybersecurity Capture The Flag;Competition;20.0
+CT010;Robotics Competition;Competition;20.0
+CM001;Programming Fundamentals;Core Module;30.0
+CM002;Database Systems;Core Module;30.0
+CM003;Algorithms and Data Structures;Core Module;30.0
+CM004;Software Engineering Principles;Core Module;30.0
+CM005;Computer Networks;Core Module;30.0
+CM006;Artificial Intelligence;Core Module;30.0
+CM007;Operating Systems;Core Module;30.0
+CM008;Web Development Technologies;Core Module;30.0
+CM009;Data Science and Analytics;Core Module;30.0
+CM010;Mobile App Development;Core Module;30.0
+CM011;Machine Learning Foundations;Core Module;30.0
+CM012;Cybersecurity Essentials;Core Module;30.0
+CM013;Software Testing and Quality Assurance;Core Module;30.0
+CM014;Human-Computer Interaction;Core Module;30.0
+CM015;Network Security Principles;Core Module;30.0
